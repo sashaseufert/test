@@ -1,2 +1,0 @@
-Version A text
-Version B
